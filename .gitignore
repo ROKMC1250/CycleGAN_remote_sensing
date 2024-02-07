@@ -2,7 +2,9 @@
 *.PNG
 *.jpeg
 *.jpg
+*.JPG
 *.tiff
+*.tif
 *.TIF
 *.qgz
 *.ipynb
