@@ -9,6 +9,7 @@
 *.qgz
 *.ipynb
 *.yml
+*.yaml
 *.md
 *.txt
 
